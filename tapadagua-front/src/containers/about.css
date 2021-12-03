@@ -1,0 +1,16 @@
+.about {
+    margin: 70px 300px;
+}
+
+.about p {
+    text-align: justify;
+}
+
+.LinksTo {
+    font-size: 20px;
+    color: blue
+}
+
+.LinksTo:hover{
+    text-decoration: None;
+}
